@@ -1,1 +1,1 @@
-# practice-DV.Savchenko
+Создан базовый скрипт calculator.py 
